@@ -39,13 +39,14 @@
             this.btCalcular = new System.Windows.Forms.Button();
             this.btSair = new System.Windows.Forms.Button();
             this.lblResultado = new System.Windows.Forms.Label();
+            this.label6 = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.numTemp)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.numAcrescimoTemp)).BeginInit();
             this.SuspendLayout();
             // 
             // numTemp
             // 
-            this.numTemp.Location = new System.Drawing.Point(29, 160);
+            this.numTemp.Location = new System.Drawing.Point(42, 235);
             this.numTemp.Name = "numTemp";
             this.numTemp.Size = new System.Drawing.Size(160, 35);
             this.numTemp.TabIndex = 0;
@@ -53,7 +54,8 @@
             // 
             // numAcrescimoTemp
             // 
-            this.numAcrescimoTemp.Location = new System.Drawing.Point(278, 160);
+            this.numAcrescimoTemp.DecimalPlaces = 2;
+            this.numAcrescimoTemp.Location = new System.Drawing.Point(291, 235);
             this.numAcrescimoTemp.Maximum = new decimal(new int[] {
             1000,
             0,
@@ -68,7 +70,7 @@
             // 
             this.label1.AutoSize = true;
             this.label1.ForeColor = System.Drawing.Color.White;
-            this.label1.Location = new System.Drawing.Point(24, 109);
+            this.label1.Location = new System.Drawing.Point(37, 184);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(152, 29);
             this.label1.TabIndex = 2;
@@ -78,7 +80,7 @@
             // 
             this.label2.AutoSize = true;
             this.label2.ForeColor = System.Drawing.Color.White;
-            this.label2.Location = new System.Drawing.Point(195, 162);
+            this.label2.Location = new System.Drawing.Point(203, 237);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(38, 29);
             this.label2.TabIndex = 3;
@@ -87,7 +89,7 @@
             // label3
             // 
             this.label3.ForeColor = System.Drawing.Color.White;
-            this.label3.Location = new System.Drawing.Point(273, 89);
+            this.label3.Location = new System.Drawing.Point(286, 164);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(165, 68);
             this.label3.TabIndex = 4;
@@ -98,7 +100,7 @@
             // 
             this.label4.AutoSize = true;
             this.label4.ForeColor = System.Drawing.Color.White;
-            this.label4.Location = new System.Drawing.Point(444, 162);
+            this.label4.Location = new System.Drawing.Point(457, 237);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(35, 29);
             this.label4.TabIndex = 5;
@@ -108,7 +110,7 @@
             // 
             this.label5.AutoSize = true;
             this.label5.ForeColor = System.Drawing.Color.White;
-            this.label5.Location = new System.Drawing.Point(145, 275);
+            this.label5.Location = new System.Drawing.Point(144, 350);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(199, 29);
             this.label5.TabIndex = 6;
@@ -116,7 +118,7 @@
             // 
             // btNovo
             // 
-            this.btNovo.Location = new System.Drawing.Point(71, 428);
+            this.btNovo.Location = new System.Drawing.Point(70, 503);
             this.btNovo.Name = "btNovo";
             this.btNovo.Size = new System.Drawing.Size(105, 51);
             this.btNovo.TabIndex = 7;
@@ -127,7 +129,7 @@
             // btCalcular
             // 
             this.btCalcular.BackColor = System.Drawing.Color.DeepSkyBlue;
-            this.btCalcular.Location = new System.Drawing.Point(195, 428);
+            this.btCalcular.Location = new System.Drawing.Point(194, 503);
             this.btCalcular.Name = "btCalcular";
             this.btCalcular.Size = new System.Drawing.Size(116, 51);
             this.btCalcular.TabIndex = 8;
@@ -139,7 +141,7 @@
             // 
             this.btSair.BackColor = System.Drawing.Color.Crimson;
             this.btSair.ForeColor = System.Drawing.Color.White;
-            this.btSair.Location = new System.Drawing.Point(333, 428);
+            this.btSair.Location = new System.Drawing.Point(332, 503);
             this.btSair.Name = "btSair";
             this.btSair.Size = new System.Drawing.Size(105, 51);
             this.btSair.TabIndex = 9;
@@ -151,18 +153,32 @@
             // 
             this.lblResultado.BackColor = System.Drawing.Color.Salmon;
             this.lblResultado.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.lblResultado.Location = new System.Drawing.Point(163, 320);
+            this.lblResultado.Location = new System.Drawing.Point(162, 395);
             this.lblResultado.Name = "lblResultado";
             this.lblResultado.Size = new System.Drawing.Size(167, 63);
             this.lblResultado.TabIndex = 10;
             this.lblResultado.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            // 
+            // label6
+            // 
+            this.label6.BackColor = System.Drawing.Color.Salmon;
+            this.label6.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.label6.Font = new System.Drawing.Font("Microsoft Sans Serif", 24F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label6.ForeColor = System.Drawing.Color.White;
+            this.label6.Location = new System.Drawing.Point(96, 21);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(324, 103);
+            this.label6.TabIndex = 11;
+            this.label6.Text = "ACRÉSCIMO DE TEMPERATURA";
+            this.label6.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // frmTemperatura
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(14F, 29F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Gray;
-            this.ClientSize = new System.Drawing.Size(517, 530);
+            this.ClientSize = new System.Drawing.Size(517, 624);
+            this.Controls.Add(this.label6);
             this.Controls.Add(this.lblResultado);
             this.Controls.Add(this.btSair);
             this.Controls.Add(this.btCalcular);
@@ -175,7 +191,7 @@
             this.Controls.Add(this.numAcrescimoTemp);
             this.Controls.Add(this.numTemp);
             this.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Margin = new System.Windows.Forms.Padding(7, 7, 7, 7);
+            this.Margin = new System.Windows.Forms.Padding(7);
             this.Name = "frmTemperatura";
             this.Text = "Temperatura 1° Bimestre";
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.frmTemperatura_FormClosing);
@@ -199,6 +215,7 @@
         private System.Windows.Forms.Button btCalcular;
         private System.Windows.Forms.Button btSair;
         private System.Windows.Forms.Label lblResultado;
+        private System.Windows.Forms.Label label6;
     }
 }
 

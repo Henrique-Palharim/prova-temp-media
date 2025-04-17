@@ -1,18 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ra2457076\\Documents\\programacao\\c#\\Prova\\",
+  "WorkspaceRootPath": "C:\\Users\\xxxhe\\OneDrive\\Documentos\\programacao\\c#\\prova-temp-media\\Prova\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C1FE7E89-4CBA-4AA6-BF88-2652AE00F151}|Prova1Bi\\Prova1Bi.csproj|c:\\users\\ra2457076\\documents\\programacao\\c#\\prova\\prova1bi\\frmtemperatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{C1FE7E89-4CBA-4AA6-BF88-2652AE00F151}|Prova1Bi\\Prova1Bi.csproj|solutionrelative:prova1bi\\frmtemperatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{C1FE7E89-4CBA-4AA6-BF88-2652AE00F151}|Prova1Bi\\Prova1Bi.csproj|C:\\Users\\xxxhe\\OneDrive\\Documentos\\programacao\\c#\\prova-temp-media\\Prova\\prova1bi\\frmcalculamedia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C1FE7E89-4CBA-4AA6-BF88-2652AE00F151}|Prova1Bi\\Prova1Bi.csproj|solutionrelative:prova1bi\\frmcalculamedia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1FE7E89-4CBA-4AA6-BF88-2652AE00F151}|Prova1Bi\\Prova1Bi.csproj|c:\\users\\ra2457076\\documents\\programacao\\c#\\prova\\prova1bi\\frmtemperatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C1FE7E89-4CBA-4AA6-BF88-2652AE00F151}|Prova1Bi\\Prova1Bi.csproj|c:\\users\\xxxhe\\onedrive\\documentos\\programacao\\c#\\prova-temp-media\\prova\\prova1bi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1FE7E89-4CBA-4AA6-BF88-2652AE00F151}|Prova1Bi\\Prova1Bi.csproj|solutionrelative:prova1bi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1FE7E89-4CBA-4AA6-BF88-2652AE00F151}|Prova1Bi\\Prova1Bi.csproj|c:\\users\\xxxhe\\onedrive\\documentos\\programacao\\c#\\prova-temp-media\\prova\\prova1bi\\frmcalculamedia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1FE7E89-4CBA-4AA6-BF88-2652AE00F151}|Prova1Bi\\Prova1Bi.csproj|solutionrelative:prova1bi\\frmcalculamedia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1FE7E89-4CBA-4AA6-BF88-2652AE00F151}|Prova1Bi\\Prova1Bi.csproj|C:\\Users\\xxxhe\\OneDrive\\Documentos\\programacao\\c#\\prova-temp-media\\Prova\\prova1bi\\frmtemperatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C1FE7E89-4CBA-4AA6-BF88-2652AE00F151}|Prova1Bi\\Prova1Bi.csproj|solutionrelative:prova1bi\\frmtemperatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1FE7E89-4CBA-4AA6-BF88-2652AE00F151}|Prova1Bi\\Prova1Bi.csproj|c:\\users\\ra2457076\\documents\\programacao\\c#\\prova\\prova1bi\\frmcalculamedia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{C1FE7E89-4CBA-4AA6-BF88-2652AE00F151}|Prova1Bi\\Prova1Bi.csproj|solutionrelative:prova1bi\\frmcalculamedia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{C1FE7E89-4CBA-4AA6-BF88-2652AE00F151}|Prova1Bi\\Prova1Bi.csproj|c:\\users\\xxxhe\\onedrive\\documentos\\programacao\\c#\\prova-temp-media\\prova\\prova1bi\\frmtemperatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C1FE7E89-4CBA-4AA6-BF88-2652AE00F151}|Prova1Bi\\Prova1Bi.csproj|solutionrelative:prova1bi\\frmtemperatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,15 +30,49 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\xxxhe\\OneDrive\\Documentos\\programacao\\c#\\prova-temp-media\\Prova\\Prova1Bi\\Program.cs",
+              "RelativeDocumentMoniker": "Prova1Bi\\Program.cs",
+              "ToolTip": "C:\\Users\\xxxhe\\OneDrive\\Documentos\\programacao\\c#\\prova-temp-media\\Prova\\Prova1Bi\\Program.cs",
+              "RelativeToolTip": "Prova1Bi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T02:46:16.428Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "frmCalculaMedia.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ra2457076\\Documents\\programacao\\c#\\Prova\\Prova1Bi\\frmCalculaMedia.cs",
+              "Title": "frmCalculaMedia.cs",
+              "DocumentMoniker": "C:\\Users\\xxxhe\\OneDrive\\Documentos\\programacao\\c#\\prova-temp-media\\Prova\\Prova1Bi\\frmCalculaMedia.cs",
               "RelativeDocumentMoniker": "Prova1Bi\\frmCalculaMedia.cs",
-              "ToolTip": "C:\\Users\\ra2457076\\Documents\\programacao\\c#\\Prova\\Prova1Bi\\frmCalculaMedia.cs [Design]",
+              "ToolTip": "C:\\Users\\xxxhe\\OneDrive\\Documentos\\programacao\\c#\\prova-temp-media\\Prova\\Prova1Bi\\frmCalculaMedia.cs",
+              "RelativeToolTip": "Prova1Bi\\frmCalculaMedia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T02:37:15.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmCalculaMedia.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\xxxhe\\OneDrive\\Documentos\\programacao\\c#\\prova-temp-media\\Prova\\Prova1Bi\\frmCalculaMedia.cs",
+              "RelativeDocumentMoniker": "Prova1Bi\\frmCalculaMedia.cs",
+              "ToolTip": "C:\\Users\\xxxhe\\OneDrive\\Documentos\\programacao\\c#\\prova-temp-media\\Prova\\Prova1Bi\\frmCalculaMedia.cs [Design]",
               "RelativeToolTip": "Prova1Bi\\frmCalculaMedia.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-16T22:39:57.68Z",
@@ -38,24 +80,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "frmTemperatura.cs",
-              "DocumentMoniker": "C:\\Users\\ra2457076\\Documents\\programacao\\c#\\Prova\\Prova1Bi\\frmTemperatura.cs",
+              "DocumentMoniker": "C:\\Users\\xxxhe\\OneDrive\\Documentos\\programacao\\c#\\prova-temp-media\\Prova\\Prova1Bi\\frmTemperatura.cs",
               "RelativeDocumentMoniker": "Prova1Bi\\frmTemperatura.cs",
-              "ToolTip": "C:\\Users\\ra2457076\\Documents\\programacao\\c#\\Prova\\Prova1Bi\\frmTemperatura.cs",
+              "ToolTip": "C:\\Users\\xxxhe\\OneDrive\\Documentos\\programacao\\c#\\prova-temp-media\\Prova\\Prova1Bi\\frmTemperatura.cs",
               "RelativeToolTip": "Prova1Bi\\frmTemperatura.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAAAEcAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-16T22:41:39.522Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "frmTemperatura.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ra2457076\\Documents\\programacao\\c#\\Prova\\Prova1Bi\\frmTemperatura.cs",
+              "DocumentMoniker": "C:\\Users\\xxxhe\\OneDrive\\Documentos\\programacao\\c#\\prova-temp-media\\Prova\\Prova1Bi\\frmTemperatura.cs",
               "RelativeDocumentMoniker": "Prova1Bi\\frmTemperatura.cs",
-              "ToolTip": "C:\\Users\\ra2457076\\Documents\\programacao\\c#\\Prova\\Prova1Bi\\frmTemperatura.cs [Design]",
+              "ToolTip": "C:\\Users\\xxxhe\\OneDrive\\Documentos\\programacao\\c#\\prova-temp-media\\Prova\\Prova1Bi\\frmTemperatura.cs [Design]",
               "RelativeToolTip": "Prova1Bi\\frmTemperatura.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-16T22:18:50.68Z",
