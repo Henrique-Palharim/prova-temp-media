@@ -64,6 +64,7 @@
             this.numNota1.TabIndex = 0;
             this.numNota1.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
             this.numNota1.Enter += new System.EventHandler(this.numNota1_Enter);
+            this.numNota1.Leave += new System.EventHandler(this.numNota1_Leave);
             // 
             // numNota2
             // 
@@ -84,6 +85,7 @@
             this.numNota2.TabIndex = 1;
             this.numNota2.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
             this.numNota2.Enter += new System.EventHandler(this.numNota2_Enter);
+            this.numNota2.Leave += new System.EventHandler(this.numNota2_Leave);
             // 
             // numNota3
             // 
@@ -104,6 +106,7 @@
             this.numNota3.TabIndex = 2;
             this.numNota3.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
             this.numNota3.Enter += new System.EventHandler(this.numNota3_Enter_1);
+            this.numNota3.Leave += new System.EventHandler(this.numNota3_Leave);
             // 
             // label1
             // 

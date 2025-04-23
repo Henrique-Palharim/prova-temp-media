@@ -75,18 +75,36 @@ namespace Prova1Bi
         {
             string nota1Formatado = numNota1.Value.ToString("0.00");
             numNota1.Select(0, nota1Formatado.Length);
+
+            numNota1.BackColor = Color.LightYellow;
+        }
+        private void numNota1_Leave(object sender, EventArgs e)
+        {
+            numNota1.BackColor = Color.White;
         }
 
         private void numNota2_Enter(object sender, EventArgs e)
         {
             string nota2Formatado = numNota2.Value.ToString("0.00");
             numNota2.Select(0, nota2Formatado.Length);
+
+            numNota2.BackColor = Color.LightYellow;
+        }
+        private void numNota2_Leave(object sender, EventArgs e)
+        {
+            numNota2.BackColor = Color.White;
         }
 
         private void numNota3_Enter_1(object sender, EventArgs e)
         {
             string nota3Formatado = numNota3.Value.ToString("0.00");
             numNota3.Select(0, nota3Formatado.Length);
+
+            numNota3.BackColor = Color.LightYellow;
+        }
+        private void numNota3_Leave(object sender, EventArgs e)
+        {
+            numNota3.BackColor = Color.White;
         }
     }
 }
