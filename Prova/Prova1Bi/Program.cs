@@ -16,7 +16,7 @@ namespace Prova1Bi
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmTemperatura());
+            Application.Run(new frmCalculaMedia());
         }
     }
 }

@@ -68,7 +68,25 @@ namespace Prova1Bi
             double media = (a + b + c) / 3;
             return media;
         }
-
         
+        /* --------------- RECURSOS --------------- */
+
+        private void numNota1_Enter(object sender, EventArgs e)
+        {
+            string nota1Formatado = numNota1.Value.ToString("0.00");
+            numNota1.Select(0, nota1Formatado.Length);
+        }
+
+        private void numNota2_Enter(object sender, EventArgs e)
+        {
+            string nota2Formatado = numNota2.Value.ToString("0.00");
+            numNota2.Select(0, nota2Formatado.Length);
+        }
+
+        private void numNota3_Enter_1(object sender, EventArgs e)
+        {
+            string nota3Formatado = numNota3.Value.ToString("0.00");
+            numNota3.Select(0, nota3Formatado.Length);
+        }
     }
 }

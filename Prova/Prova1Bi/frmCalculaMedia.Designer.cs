@@ -62,6 +62,8 @@
             this.numNota1.Name = "numNota1";
             this.numNota1.Size = new System.Drawing.Size(120, 35);
             this.numNota1.TabIndex = 0;
+            this.numNota1.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
+            this.numNota1.Enter += new System.EventHandler(this.numNota1_Enter);
             // 
             // numNota2
             // 
@@ -80,6 +82,8 @@
             this.numNota2.Name = "numNota2";
             this.numNota2.Size = new System.Drawing.Size(120, 35);
             this.numNota2.TabIndex = 1;
+            this.numNota2.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
+            this.numNota2.Enter += new System.EventHandler(this.numNota2_Enter);
             // 
             // numNota3
             // 
@@ -98,6 +102,8 @@
             this.numNota3.Name = "numNota3";
             this.numNota3.Size = new System.Drawing.Size(120, 35);
             this.numNota3.TabIndex = 2;
+            this.numNota3.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
+            this.numNota3.Enter += new System.EventHandler(this.numNota3_Enter_1);
             // 
             // label1
             // 
@@ -132,7 +138,7 @@
             // label4
             // 
             this.label4.BackColor = System.Drawing.Color.Salmon;
-            this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 24F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label4.ForeColor = System.Drawing.Color.White;
             this.label4.Location = new System.Drawing.Point(23, 63);
             this.label4.Name = "label4";
@@ -216,7 +222,7 @@
             this.Controls.Add(this.numNota1);
             this.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.ForeColor = System.Drawing.Color.White;
-            this.Margin = new System.Windows.Forms.Padding(7, 7, 7, 7);
+            this.Margin = new System.Windows.Forms.Padding(7);
             this.Name = "frmCalculaMedia";
             this.Text = "Calcular Média";
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.frmCalculaMedia_FormClosing);

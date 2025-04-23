@@ -19,3 +19,14 @@ C:\Users\xxxhe\OneDrive\Documentos\programacao\c#\prova-temp-media\Prova\Prova1B
 C:\Users\xxxhe\OneDrive\Documentos\programacao\c#\prova-temp-media\Prova\Prova1Bi\obj\Debug\Prova1Bi.csproj.CoreCompileInputs.cache
 C:\Users\xxxhe\OneDrive\Documentos\programacao\c#\prova-temp-media\Prova\Prova1Bi\obj\Debug\Prova1Bi.exe
 C:\Users\xxxhe\OneDrive\Documentos\programacao\c#\prova-temp-media\Prova\Prova1Bi\obj\Debug\Prova1Bi.pdb
+C:\Users\ra2457076\source\repos\Henrique-Palharim\prova-temp-media\Prova\Prova1Bi\bin\Debug\Prova1Bi.exe.config
+C:\Users\ra2457076\source\repos\Henrique-Palharim\prova-temp-media\Prova\Prova1Bi\bin\Debug\Prova1Bi.exe
+C:\Users\ra2457076\source\repos\Henrique-Palharim\prova-temp-media\Prova\Prova1Bi\bin\Debug\Prova1Bi.pdb
+C:\Users\ra2457076\source\repos\Henrique-Palharim\prova-temp-media\Prova\Prova1Bi\obj\Debug\Prova1Bi.csproj.AssemblyReference.cache
+C:\Users\ra2457076\source\repos\Henrique-Palharim\prova-temp-media\Prova\Prova1Bi\obj\Debug\Prova1Bi.frmCalculaMedia.resources
+C:\Users\ra2457076\source\repos\Henrique-Palharim\prova-temp-media\Prova\Prova1Bi\obj\Debug\Prova1Bi.frmTemperatura.resources
+C:\Users\ra2457076\source\repos\Henrique-Palharim\prova-temp-media\Prova\Prova1Bi\obj\Debug\Prova1Bi.Properties.Resources.resources
+C:\Users\ra2457076\source\repos\Henrique-Palharim\prova-temp-media\Prova\Prova1Bi\obj\Debug\Prova1Bi.csproj.GenerateResource.cache
+C:\Users\ra2457076\source\repos\Henrique-Palharim\prova-temp-media\Prova\Prova1Bi\obj\Debug\Prova1Bi.csproj.CoreCompileInputs.cache
+C:\Users\ra2457076\source\repos\Henrique-Palharim\prova-temp-media\Prova\Prova1Bi\obj\Debug\Prova1Bi.exe
+C:\Users\ra2457076\source\repos\Henrique-Palharim\prova-temp-media\Prova\Prova1Bi\obj\Debug\Prova1Bi.pdb
