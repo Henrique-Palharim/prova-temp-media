@@ -13,20 +13,11 @@ namespace Prova1Bi
     public partial class frmTemperatura : Form
     {
 
-        /* --------------- VARIÁVEIS GLOBAIS --------------- */
-
-        double temp;
-
         /* --------------- COMPONENTES --------------- */
 
         public frmTemperatura()
         {
             InitializeComponent();
-        }
-
-        private void numTemp_ValueChanged(object sender, EventArgs e)
-        {
-            temp = (double) numTemp.Value;
         }
 
         private void btNovo_Click(object sender, EventArgs e)
@@ -45,18 +36,13 @@ namespace Prova1Bi
             double resultado = Acrescimo(temperatura, acrescimo);
 
             lblResultado.Text = resultado.ToString("0.00"); // exibe como "1.00" se for só o valor do acréscimo
+
+            btNovo.Focus();
         }
 
         private void btSair_Click(object sender, EventArgs e)
         {
             this.Close();
-        }
-
-        /* --------------- FUNÇÕES --------------- */
-
-        private double Acrescimo(double temperatura, double acrescimo)
-        {
-            return temperatura + (temperatura * acrescimo / 100);
         }
 
         private void frmTemperatura_FormClosing(object sender, FormClosingEventArgs e)
@@ -69,12 +55,21 @@ namespace Prova1Bi
 
             if (resposta == DialogResult.Yes)
             {
-                
+
             }
             else
             {
                 e.Cancel = true;
             }
         }
+
+        /* --------------- FUNÇÕES --------------- */
+
+        private double Acrescimo(double temperatura, double acrescimo)
+        {
+            return temperatura + (temperatura * acrescimo / 100);
+        }
+
+        
     }
 }
